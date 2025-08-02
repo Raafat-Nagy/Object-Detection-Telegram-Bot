@@ -40,7 +40,7 @@ object-detection-telegram-bot
 ├── object_detection_telegram_bot_test.ipynb  
 ├── requirements.txt                    
 └── model/
-└── yolo11n.pt                      
+     └── yolo11n.pt                      
 
 ````
 
